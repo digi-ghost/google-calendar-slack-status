@@ -18,4 +18,7 @@ Configuration
 
 Config is simple:
 1. place the client_secret.json file in your working directory
-2. add you 
+2. add your Slack token into line 23 of set_status.py
+3. Run set_status.py
+
+
